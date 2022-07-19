@@ -1,0 +1,21 @@
+img{
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button
+{
+    padding: 10px;
+    width: 50px;
+
+}
+#btn1{
+    position: relative;
+    left: 20%;
+}
+#btn2{
+    position: relative;
+    left:73%;
+}
